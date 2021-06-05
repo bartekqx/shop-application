@@ -8,5 +8,7 @@
     <artifactId>shop-application</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <modules>
+        <module>server</module>
+    </modules>
 </project>
